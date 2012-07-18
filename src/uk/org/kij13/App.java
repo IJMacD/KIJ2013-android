@@ -1,7 +1,7 @@
 package uk.org.kij13;
 
 import android.os.Bundle;
-import com.phonegap.DroidGap;
+import org.apache.cordova.*;;
 
 public class App extends DroidGap {
 
